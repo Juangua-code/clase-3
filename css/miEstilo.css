@@ -1,0 +1,31 @@
+table,td,th {
+    border: 2px solid red;
+}
+
+td,th{
+    padding: 10px;
+}
+
+table{
+    background-color: azure;
+    
+}
+
+div{
+    background-color:blue;
+    width: 350px; 
+    height: 300px   ;
+    padding: 80px;
+}
+
+#MariaIsabel{
+    background-color: blueviolet;
+} 
+.Juan {
+    color: green;
+    background-color: burlywood;
+}
+
+#Maria{
+    background-color: aqua;
+}
